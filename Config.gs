@@ -28,10 +28,10 @@ const CONFIG_PIPE = {
     NOME_REMETENTE: 'Automação de Pipeline'
   },
 
-  AGENDAMENTO: {
-    DIA_SEMANA: 'THURSDAY',
-    HORA: 16,
-    MINUTO: 0,
-    FUSO_HORARIO: 'America/Sao_Paulo'
-  }
+AGENDAMENTO: {
+  DIA_SEMANA: 'THURSDAY',
+  HORA: 12,
+  MINUTO: 0,
+  FUSO_HORARIO: 'America/Sao_Paulo'
+}
 };
